@@ -1,6 +1,7 @@
 # 👋 Olá, eu sou Guilherme Oliveira!
 
-![Imagem de Programação](https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582747_960_720.png)
+![GIF de Programação](https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif)
+
 ## Sobre Mim 🤓
 
 - 💻 Desenvolvedor Full Stack
