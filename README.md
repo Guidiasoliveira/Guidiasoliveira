@@ -1,7 +1,6 @@
-# 👋 Olá, eu sou [Seu Nome]!
+# 👋 Olá, eu sou Guilherme Oliveira!
 
-![GIF Animado](https://media.giphy.com/media/XG3G4CwGtHX9HyTImB/giphy.gif)
-
+![Imagem de Programação](https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582747_960_720.png)
 ## Sobre Mim 🤓
 
 - 💻 Desenvolvedor Full Stack
