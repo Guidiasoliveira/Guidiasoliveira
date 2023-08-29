@@ -10,16 +10,16 @@
 
 ## Projetos Incríveis 🚀
 
-![Projeto 1](https://media.giphy.com/media/5eLDrEaRG6GW2/source.gif)
-![Projeto 2](https://media.giphy.com/media/26gslkmdkgY6xvAtu/source.gif)
+![GIF de Rocket](https://media.giphy.com/media/5eLDrEaRG6GW2/source.gif)
+![GIF de Checklist](https://media.giphy.com/media/26gslkmdkgY6xvAtu/source.gif)
 
 ## Linguagens e Ferramentas 🛠️
 
-![Python](https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif)
-![JavaScript](https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif)
-![HTML](https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif)
-![CSS](https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif)
-![VS Code](https://media.giphy.com/media/IdyAQJVN2kVPNUrojM/giphy.gif)
+![GIF de Python](https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif)
+![GIF de JavaScript](https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif)
+![GIF de HTML](https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif)
+![GIF de CSS](https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif)
+![GIF de VS Code](https://media.giphy.com/media/IdyAQJVN2kVPNUrojM/giphy.gif)
 
 ## Vamos Conectar! 🤝
 
