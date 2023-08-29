@@ -17,6 +17,8 @@
 
 ![Python](https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif)
 ![JavaScript](https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif)
+![HTML](https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif)
+![CSS](https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif)
 ![VS Code](https://media.giphy.com/media/IdyAQJVN2kVPNUrojM/giphy.gif)
 
 ## Vamos Conectar! 🤝
